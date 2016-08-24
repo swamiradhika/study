@@ -4,4 +4,7 @@
 public with sharing class SelfClass1 {
 	public SelfClass1() {
 	}
+
+	public void method1() {
+	}
 }

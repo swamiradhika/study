@@ -1,6 +1,3 @@
-/**
- * First class for demo
- */
 public with sharing class SelfClass1 {
 	public SelfClass1() {
 	}

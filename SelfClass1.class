@@ -1,13 +1,11 @@
 public with sharing class SelfClass1 {
-	public String param1;
+
 	public String param2;
 
 	/**
 	 * Commit2
 	 */
 	public SelfClass1() {
-		param1 = '';
 		param2 = '';
 	}
-
 }

@@ -2,6 +2,7 @@ public with sharing class SelfClass1 {
 	public String param1;
 	public String param2;
 
+	// Default Constructor
 	public SelfClass1() {
 		this.param1 = '';
 		this.param2 = '';

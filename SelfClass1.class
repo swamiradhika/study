@@ -1,8 +1,11 @@
 public with sharing class SelfClass1 {
+	String str1;
+
 
 	/**
 	 * Default Constructor
 	 */
 	public SelfClass1() {
+		this.str1 = '';
 	}
 }

@@ -7,4 +7,10 @@ public with sharing class SelfClass1 {
 		this.param1 = '';
 		this.param2 = '';
 	}
+
+	// Parametrised Constructor
+	public SelfClass1(String param1, String param2) {
+		this.param1 = param1;
+		this.param2 = param2;
+	}	
 }
